@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Arraydemo/.idea/Arraydemo.iml" filepath="$PROJECT_DIR$/../Arraydemo/.idea/Arraydemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lab1.iml" filepath="$PROJECT_DIR$/.idea/Lab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Validation/.idea/Validation.iml" filepath="$PROJECT_DIR$/../Validation/.idea/Validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Validator_Original/.idea/Validator_Original.iml" filepath="$PROJECT_DIR$/../Validator_Original/.idea/Validator_Original.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../form-validation-starting-files/.idea/form-validation-starting-files.iml" filepath="$PROJECT_DIR$/../form-validation-starting-files/.idea/form-validation-starting-files.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/maj_store/.idea/maj_store.iml" filepath="$USER_HOME$/Desktop/maj_store/.idea/maj_store.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ooophp/.idea/ooophp.iml" filepath="$PROJECT_DIR$/../ooophp/.idea/ooophp.iml" />
+    </modules>
+  </component>
+</project>
